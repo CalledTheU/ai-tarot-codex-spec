@@ -1,0 +1,126 @@
+[
+  {
+    "id": "ca8bb451-5efc-5e48-9c4a-2bb56ccec551",
+    "slug": "single-card",
+    "name": "单张牌",
+    "description": "聚焦一个主题，适合每日学习与简短反思。",
+    "positions": [
+      {
+        "index": 0,
+        "name": "当前主题",
+        "description": "围绕“当前主题”进行观察和反思。",
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "is_active": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "5f8c4e42-8675-5d64-a5f2-a3bab862e8e5",
+    "slug": "three-card-past-present-future",
+    "name": "过去、现在、未来",
+    "description": "从时间视角整理经历、当下与可能的发展；未来位置不代表确定预言。",
+    "positions": [
+      {
+        "index": 0,
+        "name": "过去",
+        "description": "围绕“过去”进行观察和反思。",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "index": 1,
+        "name": "现在",
+        "description": "围绕“现在”进行观察和反思。",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "index": 2,
+        "name": "未来",
+        "description": "围绕“未来”进行观察和反思。",
+        "x": 2,
+        "y": 0
+      }
+    ],
+    "is_active": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "55b8ab11-59b6-5ac4-83d7-623a5ff8f692",
+    "slug": "three-card-situation-challenge-advice",
+    "name": "现状、挑战、建议",
+    "description": "适合梳理一个具体困惑，以及自己可以采取的行动。",
+    "positions": [
+      {
+        "index": 0,
+        "name": "现状",
+        "description": "围绕“现状”进行观察和反思。",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "index": 1,
+        "name": "挑战",
+        "description": "围绕“挑战”进行观察和反思。",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "index": 2,
+        "name": "建议",
+        "description": "围绕“建议”进行观察和反思。",
+        "x": 2,
+        "y": 0
+      }
+    ],
+    "is_active": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "f9b58897-dbf2-5ed1-a07d-a1daaddd0289",
+    "slug": "five-card-reflection",
+    "name": "五张反思牌阵",
+    "description": "从多个角度展开自我反思，留意背景与不确定性。",
+    "positions": [
+      {
+        "index": 0,
+        "name": "问题",
+        "description": "围绕“问题”进行观察和反思。",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "index": 1,
+        "name": "影响因素",
+        "description": "围绕“影响因素”进行观察和反思。",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "index": 2,
+        "name": "内在状态",
+        "description": "围绕“内在状态”进行观察和反思。",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "index": 3,
+        "name": "行动建议",
+        "description": "围绕“行动建议”进行观察和反思。",
+        "x": 3,
+        "y": 0
+      },
+      {
+        "index": 4,
+        "name": "可能的发展方向",
+        "description": "围绕“可能的发展方向”进行观察和反思。",
+        "x": 4,
+        "y": 0
+      }
+    ],
+    "is_active": true,
+    "version": "1.0.0"
+  }
+]

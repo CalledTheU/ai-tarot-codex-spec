@@ -1,0 +1,2 @@
+# Preserve the exact source snapshot used by the provenance hashes.
+data/sources/43548-h.htm -text -whitespace

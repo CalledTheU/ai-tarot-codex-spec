@@ -1,5 +1,7 @@
 # 部署规格
 
+当前完成 Phase 0–2 本地开发。PostgreSQL、Alembic 迁移与种子导入的实际命令见 README；Dockerfile、Compose、Nginx 与备份恢复仍为 Phase 8 目标，下述 Compose 命令当前不可执行。
+
 ## 开发环境
 要求安装兼容版本的 Python、Node.js、Docker Engine/Desktop。具体版本由仓库依赖锁文件确定，并在 README 中写明实际验证版本。
 
@@ -10,7 +12,7 @@
 数据库仅加入内部网络，生产环境默认不发布数据库端口。
 
 ## 配置
-复制 `.env.example` 到 `.env`，填入强随机 AUTH_SECRET 和模型服务配置。`.env` 不得提交 Git。CORS 与公开 URL 应按环境配置。
+`.env.example` 列出当前及后续配置。当前应用从进程环境变量读取配置，不自动加载 `.env`；PowerShell 设置方式见 README。后续部署可由容器环境注入；真实 `.env` 不得提交 Git。AUTH_SECRET、认证、CORS 与模型尚未实现，不能将这些占位值当成生产安全配置。
 
 ## 预期操作
 ```bash

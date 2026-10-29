@@ -10,6 +10,8 @@
 - 配置 Python 依赖、前端 package、格式化/lint/test 命令。
 验收：后端可启动并返回 live/ready；前端可启动；基础测试通过。
 
+状态（2026-10-29）：Phase 0 验收通过。保留并补齐现有骨架，已验证 Python 3.11.9、Node.js 24.19.0、npm 11.17.0 下的依赖安装、格式/lint/类型检查、后端 13 项测试、前端 1 项测试和构建。实际启动 Uvicorn 与 Vite 后，live/ready、前端首页及 React 模块 HTTP 检查通过。以上为 Phase 0 历史验收记录；后续阶段进度见下文。
+
 ## Phase 1 — 数据库和牌库
 - SQLAlchemy 模型与 Alembic。
 - users、tarot_cards、spreads、readings、reading_cards、chat_messages、agent_runs。
@@ -18,11 +20,15 @@
 - 录入完整 78 张牌和四种初始牌阵。
 验收：数据库迁移成功；牌库数量和分类测试通过；重复 seed 不破坏数据。
 
+状态（2026-10-29）：Phase 1 验收通过。真实 PostgreSQL 17.6 的隔离测试 schema 中，迁移往返、ORM 一致性、78 张来源摘录及四种牌阵、幂等与保留已有内容、数据库约束及级联删除测试均通过；连同配置和健康检查共 22 项通过。SQLite 辅助测试也通过。来源登记见 `data/tarot_sources.md`；牌义为经过源文件比对的英文历史摘录，未冒充已审核中文译文。Reading 采用物理删除与子记录外键级联策略，私有读写接口留待后续阶段。
+
 ## Phase 2 — 牌库/牌阵 API 与前端
 - 查询牌库、详情、过滤和分页。
 - 牌阵列表与详情。
 - 前端首页、牌库页、牌详情、牌阵选择页。
 验收：API 测试、前端组件测试通过；无 AI 时可浏览资料。
+
+状态（2026-10-29）：Phase 2 验收通过（后端 48 项、前端 10 项及真实浏览器联调通过）。公开 cards/spreads 四个接口与前端首页、筛选分页、牌详情、牌阵选择和详情已实现；来源与历史文本边界在详情中展示，牌位由后端坐标与定义驱动。真实 PostgreSQL API 测试及 React Testing Library 组件测试、Edge 浏览器真实联调结果见 `docs/TESTING.md`。无需模型即可浏览资料；本次止于 Phase 2，Phase 3 尚未开始。
 
 ## Phase 3 — 认证与抽牌
 - 注册、登录、退出、me。

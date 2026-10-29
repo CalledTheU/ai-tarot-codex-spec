@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "044dce90-d61b-5ec1-90a3-dff2593debc5",
+    "slug": "the-fool",
+    "name_zh": "愚者",
+    "name_en": "The Fool",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "0",
+    "upright_keywords": [
+      "Folly",
+      "mania",
+      "extravagance"
+    ],
+    "reversed_keywords": [
+      "Negligence",
+      "absence",
+      "distribution"
+    ],
+    "upright_meaning": "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
+    "reversed_meaning": "Negligence, absence, distribution, carelessness, apathy, nullity, vanity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 0: The Fool",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "032543b7978e79a02109ddfd4378bdf2fa924586ab712b3a2211f5a9987fda32"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "a7302366-887e-5f73-b7bf-413e12ac449c",
+    "slug": "the-magician",
+    "name_zh": "魔术师",
+    "name_en": "The Magician",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "1",
+    "upright_keywords": [
+      "Skill",
+      "diplomacy",
+      "address"
+    ],
+    "reversed_keywords": [
+      "Physician",
+      "Magus",
+      "mental disease"
+    ],
+    "upright_meaning": "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.",
+    "reversed_meaning": "Physician, Magus, mental disease, disgrace, disquiet.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 1: The Magician",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "76872be9b92121818d0bc0c56427c7eee941b91cc691990e306f29c5755f04cd"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "b94ffd16-b347-5abb-bc92-7c828e4da48a",
+    "slug": "the-high-priestess",
+    "name_zh": "女祭司",
+    "name_en": "The High Priestess",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "2",
+    "upright_keywords": [
+      "Secrets",
+      "mystery",
+      "the future as yet unrevealed"
+    ],
+    "reversed_keywords": [
+      "Passion",
+      "moral or physical ardor",
+      "conceit"
+    ],
+    "upright_meaning": "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
+    "reversed_meaning": "Passion, moral or physical ardor, conceit, surface knowledge.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 2: The High Priestess",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "ddf3f9c9154a68179601853101c9c39c44591472741b1098f66ef57a479ee69d"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "3eaa32cd-f1f8-5bee-a212-6a1fcb4e1f13",
+    "slug": "the-empress",
+    "name_zh": "皇后",
+    "name_en": "The Empress",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "3",
+    "upright_keywords": [
+      "Fruitfulness",
+      "action",
+      "initiative"
+    ],
+    "reversed_keywords": [
+      "Light",
+      "truth",
+      "the unravelling of involved matters"
+    ],
+    "upright_meaning": "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.",
+    "reversed_meaning": "Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 3: The Empress",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "12147eb4fa78b4cbe71204e0cfa9247d4836e665bc7ffd233d61b84e5ea0aa0f"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "4ad2ac46-0e39-5419-8bc6-cdadbf69c03f",
+    "slug": "the-emperor",
+    "name_zh": "皇帝",
+    "name_en": "The Emperor",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "4",
+    "upright_keywords": [
+      "Stability",
+      "power",
+      "protection"
+    ],
+    "reversed_keywords": [
+      "Benevolence",
+      "compassion",
+      "credit"
+    ],
+    "upright_meaning": "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
+    "reversed_meaning": "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 4: The Emperor",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "095ecaa8c6c23ece606f51ee3a74d6fad7a952a1b03b9ab01559b988b65ff579"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "3317d82b-bdac-5fdf-bc23-e51b54d9daa6",
+    "slug": "the-hierophant",
+    "name_zh": "教皇",
+    "name_en": "The Hierophant",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "5",
+    "upright_keywords": [
+      "Marriage",
+      "alliance",
+      "captivity"
+    ],
+    "reversed_keywords": [
+      "Society",
+      "good understanding",
+      "concord"
+    ],
+    "upright_meaning": "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.",
+    "reversed_meaning": "Society, good understanding, concord, over-kindness, weakness.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 5: The Hierophant",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "a4ca8156b53c21966e4ce0a3acd3c1e077d1fff48a3ecca6c15f7f1556f6d894"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e0a0c9d0-6517-5ed2-bbc5-459ff99b1b72",
+    "slug": "the-lovers",
+    "name_zh": "恋人",
+    "name_en": "The Lovers",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "6",
+    "upright_keywords": [
+      "Attraction",
+      "love",
+      "beauty"
+    ],
+    "reversed_keywords": [
+      "Failure",
+      "foolish designs",
+      "Another account speaks of marriage frustrated and contrarieties of all kinds"
+    ],
+    "upright_meaning": "Attraction, love, beauty, trials overcome.",
+    "reversed_meaning": "Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 6: The Lovers",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "97bf65b98144a613a277f5115d2ce63a25c26ac72dadc9a82e5399a22978bd5a"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "5f612011-c055-5f31-814c-3e0ad9c7afee",
+    "slug": "the-chariot",
+    "name_zh": "战车",
+    "name_en": "The Chariot",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "7",
+    "upright_keywords": [
+      "Succor",
+      "providence",
+      "also war"
+    ],
+    "reversed_keywords": [
+      "Riot",
+      "quarrel",
+      "dispute"
+    ],
+    "upright_meaning": "Succor, providence; also war, triumph, presumption, vengeance, trouble.",
+    "reversed_meaning": "Riot, quarrel, dispute, litigation, defeat.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 7: The Chariot",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "f1167b8930e9a25ecfaf878ba5e7fd9ef856a0e81e88417dd295fae47c25f1b1"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "b379eedd-808a-5b3d-9851-c55cae095772",
+    "slug": "fortitude",
+    "name_zh": "力量",
+    "name_en": "Fortitude",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "8",
+    "upright_keywords": [
+      "Power",
+      "energy",
+      "action"
+    ],
+    "reversed_keywords": [
+      "Despotism",
+      "abuse of power",
+      "weakness"
+    ],
+    "upright_meaning": "Power, energy, action, courage, magnanimity; also complete success and honors.",
+    "reversed_meaning": "Despotism, abuse of power, weakness, discord, sometimes even disgrace.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 8: Fortitude",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "edb1b7a81d9f1ece576e653de05c4ca50e81026d65e40023df78e7b58dc48e8a"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "32430411-8a94-52a1-964e-df4a3d2461c1",
+    "slug": "the-hermit",
+    "name_zh": "隐者",
+    "name_en": "The Hermit",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "9",
+    "upright_keywords": [
+      "Prudence",
+      "circumspection",
+      "also and especially treason"
+    ],
+    "reversed_keywords": [
+      "Concealment",
+      "disguise",
+      "policy"
+    ],
+    "upright_meaning": "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.",
+    "reversed_meaning": "Concealment, disguise, policy, fear, unreasoned caution.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 9: The Hermit",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "5317ba630602192460852929f833e5ff21130e9cff733c7172cf863be049c813"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "a4c6566f-e2ab-592c-8790-662b219333f8",
+    "slug": "wheel-of-fortune",
+    "name_zh": "命运之轮",
+    "name_en": "Wheel of Fortune",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "10",
+    "upright_keywords": [
+      "Destiny",
+      "fortune",
+      "success"
+    ],
+    "reversed_keywords": [
+      "Increase",
+      "abundance",
+      "superfluity"
+    ],
+    "upright_meaning": "Destiny, fortune, success, elevation, luck, felicity.",
+    "reversed_meaning": "Increase, abundance, superfluity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 10: Wheel of Fortune",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "b6c26d5ed8b5bb36ec5a0f41dd6ebc9d05bd18bba1e30a9f3e6a869eb4d2dec1"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e9d14977-8763-54d2-b472-0cd00f9bf0cb",
+    "slug": "justice",
+    "name_zh": "正义",
+    "name_en": "Justice",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "11",
+    "upright_keywords": [
+      "Equity",
+      "rightness",
+      "probity"
+    ],
+    "reversed_keywords": [
+      "Law in all its departments",
+      "legal complications",
+      "bigotry"
+    ],
+    "upright_meaning": "Equity, rightness, probity, executive; triumph of the deserving side in law.",
+    "reversed_meaning": "Law in all its departments, legal complications, bigotry, bias, excessive severity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 11: Justice",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "e98ec9ab0c3838ea5b0afe87acf1b4d4a53e48da349df460589895c4758dc0f1"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "c8ab9153-0466-578b-8b8b-a34c936d2e81",
+    "slug": "the-hanged-man",
+    "name_zh": "倒吊人",
+    "name_en": "The Hanged Man",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "12",
+    "upright_keywords": [
+      "Wisdom",
+      "circumspection",
+      "discernment"
+    ],
+    "reversed_keywords": [
+      "Selfishness",
+      "the crowd",
+      "body politic"
+    ],
+    "upright_meaning": "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.",
+    "reversed_meaning": "Selfishness, the crowd, body politic.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 12: The Hanged Man",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "3adc1e1e872aa9f64ef05b3c4e4820023c1fcdec87cd0d36f79e878323af4962"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "6dc80ff3-15ff-558d-92dd-f38d1095a5b7",
+    "slug": "death",
+    "name_zh": "死神",
+    "name_en": "Death",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "13",
+    "upright_keywords": [
+      "End",
+      "mortality",
+      "destruction"
+    ],
+    "reversed_keywords": [
+      "Inertia",
+      "sleep",
+      "lethargy"
+    ],
+    "upright_meaning": "End, mortality, destruction, corruption; also, for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects.",
+    "reversed_meaning": "Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 13: Death",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "9e8edb5dfca2f864fdb3f9f8fd22cbaa9b3b40f18e13545ecfa35bb34b010033"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "2daa9c47-4b47-59f1-9607-33ab281c3778",
+    "slug": "temperance",
+    "name_zh": "节制",
+    "name_en": "Temperance",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "14",
+    "upright_keywords": [
+      "Economy",
+      "moderation",
+      "frugality"
+    ],
+    "reversed_keywords": [
+      "Things connected with churches",
+      "religions",
+      "sects"
+    ],
+    "upright_meaning": "Economy, moderation, frugality, management, accommodation.",
+    "reversed_meaning": "Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 14: Temperance",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "bc418e0a44dea708709298f6804d5b21778095f903e26c554519c26f879e4142"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "6a129514-fb89-5b65-abe8-1d37d50ddded",
+    "slug": "the-devil",
+    "name_zh": "恶魔",
+    "name_en": "The Devil",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "15",
+    "upright_keywords": [
+      "Ravage",
+      "violence",
+      "vehemence"
+    ],
+    "reversed_keywords": [
+      "Evil fatality",
+      "weakness",
+      "pettiness"
+    ],
+    "upright_meaning": "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.",
+    "reversed_meaning": "Evil fatality, weakness, pettiness, blindness.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 15: The Devil",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "78e7363b50c622c5b3af6a9eacea4b0a5f4fa13dcc3d2864fd1b86db89099e38"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "1868aecb-4d31-58a4-b965-8ace058faac9",
+    "slug": "the-tower",
+    "name_zh": "高塔",
+    "name_en": "The Tower",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "16",
+    "upright_keywords": [
+      "Misery",
+      "distress",
+      "indigence"
+    ],
+    "reversed_keywords": [
+      "According to one account",
+      "the same in a lesser degree",
+      "also oppression"
+    ],
+    "upright_meaning": "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.",
+    "reversed_meaning": "According to one account, the same in a lesser degree; also oppression, imprisonment, tyranny.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 16: The Tower",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "8091ad49d111e338c33289540be39db8eb1fd5bcef132efd1c9cc7fa320fd392"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "0b5e8cde-0c71-521c-9220-a5632c86dcd7",
+    "slug": "the-star",
+    "name_zh": "星星",
+    "name_en": "The Star",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "17",
+    "upright_keywords": [
+      "Loss",
+      "theft",
+      "privation"
+    ],
+    "reversed_keywords": [
+      "Arrogance",
+      "haughtiness",
+      "impotence"
+    ],
+    "upright_meaning": "Loss, theft, privation, abandonment; another reading says—hope and bright prospects.",
+    "reversed_meaning": "Arrogance, haughtiness, impotence.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 17: The Star",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "0287933e1e24376f1f3a8028fa34c26dd9ee8b9b14f4851f5e334b424e2b78a5"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "16acec0e-d93c-5cba-9a93-862bb7f0e992",
+    "slug": "the-moon",
+    "name_zh": "月亮",
+    "name_en": "The Moon",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "18",
+    "upright_keywords": [
+      "Hidden enemies",
+      "danger",
+      "calumny"
+    ],
+    "reversed_keywords": [
+      "Instability",
+      "inconstancy",
+      "silence"
+    ],
+    "upright_meaning": "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.",
+    "reversed_meaning": "Instability, inconstancy, silence, lesser degrees of deception and error.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 18: The Moon",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "e6c3c88681f94b6c34f4ba9efffa02e494cfa7d451873fa008191f4d3c764c1b"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "151ca6c0-b43f-5799-aa32-19a02451bee2",
+    "slug": "the-sun",
+    "name_zh": "太阳",
+    "name_en": "The Sun",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "19",
+    "upright_keywords": [
+      "Material happiness",
+      "fortunate marriage",
+      "contentment"
+    ],
+    "reversed_keywords": [
+      "The same in a lesser sense",
+      ""
+    ],
+    "upright_meaning": "Material happiness, fortunate marriage, contentment.",
+    "reversed_meaning": "The same in a lesser sense.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 19: The Sun",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "7fb4200d9047f5823a302f4e8cf340b6834fe77d420963237249133ee1a1b685"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "50aa00f7-69d7-5787-8892-dad2a53cac38",
+    "slug": "the-last-judgment",
+    "name_zh": "审判",
+    "name_en": "The Last Judgment",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "20",
+    "upright_keywords": [
+      "Change of position",
+      "renewal",
+      "outcome"
+    ],
+    "reversed_keywords": [
+      "Weakness",
+      "pusillanimity",
+      "simplicity"
+    ],
+    "upright_meaning": "Change of position, renewal, outcome. Another account specifies total loss through lawsuit.",
+    "reversed_meaning": "Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 20: The Last Judgment",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "2c2fa4a03bf56f3b7c67272455217902b31f78f74462363cab67b1fb9940d66d"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "38f0fdd5-b676-593a-9e47-d510bb0b6683",
+    "slug": "the-world",
+    "name_zh": "世界",
+    "name_en": "The World",
+    "arcana_type": "major",
+    "suit": null,
+    "rank": "21",
+    "upright_keywords": [
+      "Assured success",
+      "recompense",
+      "voyage"
+    ],
+    "reversed_keywords": [
+      "Inertia",
+      "fixity",
+      "stagnation"
+    ],
+    "upright_meaning": "Assured success, recompense, voyage, route, emigration, flight, change of place.",
+    "reversed_meaning": "Inertia, fixity, stagnation, permanence.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III3",
+      "locator": "Part III, Section 3, 21: The World",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "efd4d7fd510a99c964f760c952463f5f5f32ed7fe6e918e6dced2d016a9757c2"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "d7daa618-31e4-58b4-8a53-76b60a14f0d9",
+    "slug": "ace-of-wands",
+    "name_zh": "权杖一",
+    "name_en": "Ace of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "ace",
+    "upright_keywords": [
+      "Creation",
+      "invention",
+      "enterprise"
+    ],
+    "reversed_keywords": [
+      "Fall",
+      "decadence",
+      "ruin"
+    ],
+    "upright_meaning": "Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.",
+    "reversed_meaning": "Fall, decadence, ruin, perdition, to perish; also a certain clouded joy.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. ACE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "b13ce109e5d30f17d1ea592e1e28c660b0b8330e9d6e5c74bc3638fb345faa3b"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "38491498-4d52-583a-9f7c-63634d1c8c5b",
+    "slug": "two-of-wands",
+    "name_zh": "权杖二",
+    "name_en": "Two of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "two",
+    "upright_keywords": [
+      "Between the alternative readings there is no marriage possible",
+      "on the one hand",
+      "riches"
+    ],
+    "reversed_keywords": [
+      "Surprise",
+      "wonder",
+      "enchantment"
+    ],
+    "upright_meaning": "Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.",
+    "reversed_meaning": "Surprise, wonder, enchantment, emotion, trouble, fear.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. TWO.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "5626147dc69a1a2274f584adf531bc8889601fa042c1868a6819d5bb6f188063"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "28fd015f-5ee7-5124-855f-bd76eda697f0",
+    "slug": "three-of-wands",
+    "name_zh": "权杖三",
+    "name_en": "Three of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "three",
+    "upright_keywords": [
+      "He symbolizes established strength",
+      "enterprise",
+      "effort"
+    ],
+    "reversed_keywords": [
+      "The end of troubles",
+      "suspension or cessation of adversity",
+      "toil and disappointment"
+    ],
+    "upright_meaning": "He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.",
+    "reversed_meaning": "The end of troubles, suspension or cessation of adversity, toil and disappointment.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. THREE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "d85886bc17ec74eb332dafaf6a40db4e7e7cf28328ce60d2f6c630eea98e7801"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "1762552a-e2ea-55c0-b3ba-6cfecb1e3807",
+    "slug": "four-of-wands",
+    "name_zh": "权杖四",
+    "name_en": "Four of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "four",
+    "upright_keywords": [
+      "They are for once almost on the surface—country life",
+      "haven of refuge",
+      "a species of domestic harvest-home"
+    ],
+    "reversed_keywords": [
+      "The meaning remains unaltered",
+      "it is prosperity",
+      "increase"
+    ],
+    "upright_meaning": "They are for once almost on the surface—country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.",
+    "reversed_meaning": "The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. FOUR.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "01b734f58d9b99ce6968a86e9553d5c7eec5f6d2351ef1c91ea4483dc208d00b"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "4dbe0948-b58b-54f6-877c-b10a1ba27d11",
+    "slug": "five-of-wands",
+    "name_zh": "权杖五",
+    "name_en": "Five of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "five",
+    "upright_keywords": [
+      "Imitation",
+      "as",
+      "for example"
+    ],
+    "reversed_keywords": [
+      "Litigation",
+      "disputes",
+      "trickery"
+    ],
+    "upright_meaning": "Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.",
+    "reversed_meaning": "Litigation, disputes, trickery, contradiction.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. FIVE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "a959d3e23d2d3d4e4e70700082f433471625be042cb81e8b5164bfef95f9931b"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "6528de9a-5454-5ced-b0df-9547ccfa55f3",
+    "slug": "six-of-wands",
+    "name_zh": "权杖六",
+    "name_en": "Six of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "six",
+    "upright_keywords": [
+      "The card has been so designed that it can cover several significations",
+      "on the surface",
+      "it is a victor triumphing"
+    ],
+    "reversed_keywords": [
+      "Apprehension",
+      "fear",
+      "as of a victorious enemy at the gate"
+    ],
+    "upright_meaning": "The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.",
+    "reversed_meaning": "Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. SIX.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c5dc213e9cb1f2a6364a050ad2df4c4980024b17f272d9f39e0516bfa798dd22"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "7ea4db71-4df5-5ab4-939f-b6ba2bd52007",
+    "slug": "seven-of-wands",
+    "name_zh": "权杖七",
+    "name_en": "Seven of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "seven",
+    "upright_keywords": [
+      "It is a card of valor",
+      "for",
+      "on the surface"
+    ],
+    "reversed_keywords": [
+      "Perplexity",
+      "embarrassments",
+      "anxiety"
+    ],
+    "upright_meaning": "It is a card of valor, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business—negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.",
+    "reversed_meaning": "Perplexity, embarrassments, anxiety. It is also a caution against indecision.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. SEVEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "7e64bf6e154b0143bbcec8d24bc568ae41d1f21473e5964600f16b5808584f36"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "fb6d64a9-432f-52d3-9cec-18911301ca8d",
+    "slug": "eight-of-wands",
+    "name_zh": "权杖八",
+    "name_en": "Eight of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "eight",
+    "upright_keywords": [
+      "Activity in undertakings",
+      "the path of such activity",
+      "swiftness"
+    ],
+    "reversed_keywords": [
+      "Arrows of jealousy",
+      "internal dispute",
+      "stingings of conscience"
+    ],
+    "upright_meaning": "Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.",
+    "reversed_meaning": "Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. EIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "2c587676035469a9853009570ac79a7cf71bab788e4ab50344e7c71f760bc9ff"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "cecd8d00-ea2e-5449-b28c-b6679ed79588",
+    "slug": "nine-of-wands",
+    "name_zh": "权杖九",
+    "name_en": "Nine of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "nine",
+    "upright_keywords": [
+      "The card signifies strength in opposition",
+      "If attacked",
+      "the person will meet an onslaught boldly"
+    ],
+    "reversed_keywords": [
+      "Obstacles",
+      "adversity",
+      "calamity"
+    ],
+    "upright_meaning": "The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shows that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts—delay, suspension, adjournment.",
+    "reversed_meaning": "Obstacles, adversity, calamity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. NINE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "3b94b2dbb82cb59d31697b79e1c28913f423b207930d5d74215ed8fc6c74a9bd"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "79d63199-20a5-5bfa-909a-70fc2ffdc055",
+    "slug": "ten-of-wands",
+    "name_zh": "权杖十",
+    "name_en": "Ten of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "ten",
+    "upright_keywords": [
+      "A card of many significances",
+      "and some of the readings cannot be harmonized",
+      "I set aside that which connects it with honor and good faith"
+    ],
+    "reversed_keywords": [
+      "Contrarieties",
+      "difficulties",
+      "intrigues"
+    ],
+    "upright_meaning": "A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honor and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.",
+    "reversed_meaning": "Contrarieties, difficulties, intrigues, and their analogies.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. TEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "3fbdc3271a62ef6e044c6b382c791c127b61cde941c3b8cc9dd61f500f2f2eb9"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "7c2a6590-55e4-55af-8f06-6bd8cfe9b7e4",
+    "slug": "page-of-wands",
+    "name_zh": "权杖侍从",
+    "name_en": "Page of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "page",
+    "upright_keywords": [
+      "Dark young man",
+      "faithful",
+      "a lover"
+    ],
+    "reversed_keywords": [
+      "Anecdotes",
+      "announcements",
+      "evil news"
+    ],
+    "upright_meaning": "Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favorable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.",
+    "reversed_meaning": "Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. PAGE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "64d781a98df4bd34fa2dd21e0ecaca2702bf75fe70a4adccffaa76bf38f71c70"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e1b6eb28-af36-5d6b-b091-b4645d536613",
+    "slug": "knight-of-wands",
+    "name_zh": "权杖骑士",
+    "name_en": "Knight of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "knight",
+    "upright_keywords": [
+      "Departure",
+      "absence",
+      "flight"
+    ],
+    "reversed_keywords": [
+      "Rupture",
+      "division",
+      "interruption"
+    ],
+    "upright_meaning": "Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.",
+    "reversed_meaning": "Rupture, division, interruption, discord.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. KNIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "108bcd67ade310d820be96cabec66ba5ce43ca68fd5b862acea76f58c6469e04"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "5b078726-17b7-5a03-b626-3cabec4f2c32",
+    "slug": "queen-of-wands",
+    "name_zh": "权杖王后",
+    "name_en": "Queen of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "queen",
+    "upright_keywords": [
+      "A dark woman",
+      "country-woman",
+      "friendly"
+    ],
+    "reversed_keywords": [
+      "Good",
+      "economical",
+      "obliging"
+    ],
+    "upright_meaning": "A dark woman, country-woman, friendly, chaste, loving, honorable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.",
+    "reversed_meaning": "Good, economical, obliging, serviceable. Signifies also—but in certain positions and in the neighborhood of other cards tending in such directions—opposition, jealousy, even deceit and infidelity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. QUEEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "335ee559e952e78a4a8fdb3c7c61019dc848f0687f35bbcbfad42ce8aa38d172"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "58617f4d-7c37-5583-bf01-a9bde18ae6e3",
+    "slug": "king-of-wands",
+    "name_zh": "权杖国王",
+    "name_en": "King of Wands",
+    "arcana_type": "minor",
+    "suit": "wands",
+    "rank": "king",
+    "upright_keywords": [
+      "Dark man",
+      "friendly",
+      "countryman"
+    ],
+    "reversed_keywords": [
+      "Good",
+      "but severe",
+      "austere"
+    ],
+    "upright_meaning": "Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+    "reversed_meaning": "Good, but severe; austere, yet tolerant.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2wands",
+      "locator": "Part III, Section 2, WANDS. KING.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "f2f19ff18781931334ffb9f2c7e0f8c00e9400d2de72c214e8b6ff9fea19a4a5"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "aae85272-27df-5f04-b3e3-6556fccc37d6",
+    "slug": "ace-of-cups",
+    "name_zh": "圣杯一",
+    "name_en": "Ace of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "ace",
+    "upright_keywords": [
+      "House of the true heart",
+      "joy",
+      "content"
+    ],
+    "reversed_keywords": [
+      "House of the false heart",
+      "mutation",
+      "instability"
+    ],
+    "upright_meaning": "House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.",
+    "reversed_meaning": "House of the false heart, mutation, instability, revolution.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. ACE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "99ca94d8b546a51e3895da7944a36cd9a15e58326312292df920346a686cd043"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "a7a1e9f3-0b5f-51b3-a904-fadeffaa9e52",
+    "slug": "two-of-cups",
+    "name_zh": "圣杯二",
+    "name_en": "Two of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "two",
+    "upright_keywords": [
+      "Love",
+      "passion",
+      "friendship"
+    ],
+    "reversed_keywords": [
+      "Passion",
+      ""
+    ],
+    "upright_meaning": "Love, passion, friendship, affinity, union, concord, sympathy, the inter-relation of the sexes, and—as a suggestion apart from all offices of divination—that desire which is not in Nature, but by which Nature is sanctified.",
+    "reversed_meaning": "Passion.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. TWO. Upright: Section 2; reversed: Section 4, Cups, Two.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "39844ffa1b0e887acad92d2fecad6802b02e1f98af98851fe8531bd8fe8c012a",
+      "reversed_url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III4"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "9b868fe2-bd31-5f22-9c4b-45c168f0d690",
+    "slug": "three-of-cups",
+    "name_zh": "圣杯三",
+    "name_en": "Three of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "three",
+    "upright_keywords": [
+      "The conclusion of any matter in plenty",
+      "perfection and merriment",
+      "happy issue"
+    ],
+    "reversed_keywords": [
+      "Expedition",
+      "dispatch",
+      "achievement"
+    ],
+    "upright_meaning": "The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing.",
+    "reversed_meaning": "Expedition, dispatch, achievement, end. It signifies also the side of excess in physical",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. THREE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c6474b32c90edfb34df2a4a8d245a6bb75882c9cbd21a0b0696d87e4fb79bc5d"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "9ee3aece-6611-5867-98ba-1593d1333581",
+    "slug": "four-of-cups",
+    "name_zh": "圣杯四",
+    "name_en": "Four of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "four",
+    "upright_keywords": [
+      "Weariness",
+      "disgust",
+      "aversion"
+    ],
+    "reversed_keywords": [
+      "Novelty",
+      "presage",
+      "new instruction"
+    ],
+    "upright_meaning": "Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.",
+    "reversed_meaning": "Novelty, presage, new instruction, new relations.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. FOUR.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "64abb1a53a81f8d8ee7273cbe880a99e14954ea26886a4e057d7f674a68fc7e2"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e204c10c-304d-5fac-8285-7d4a28ea9d7c",
+    "slug": "five-of-cups",
+    "name_zh": "圣杯五",
+    "name_en": "Five of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "five",
+    "upright_keywords": [
+      "It is a card of loss",
+      "but something remains over",
+      "three have been taken"
+    ],
+    "reversed_keywords": [
+      "News",
+      "alliances",
+      "affinity"
+    ],
+    "upright_meaning": "It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.",
+    "reversed_meaning": "News, alliances, affinity, consanguinity, ancestry, return, false projects.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. FIVE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "d7ab6211f1433fac78cf5c88dacd30ad9ec3a4e0237f1a71b67572cb1c371466"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "7d4e89bb-5d48-5639-b914-35731e4dafd2",
+    "slug": "six-of-cups",
+    "name_zh": "圣杯六",
+    "name_en": "Six of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "six",
+    "upright_keywords": [
+      "A card of the past and of memories",
+      "looking back",
+      "as—for example—on childhood"
+    ],
+    "reversed_keywords": [
+      "The future",
+      "renewal",
+      "that which will come to pass presently"
+    ],
+    "upright_meaning": "A card of the past and of memories, looking back, as—for example—on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.",
+    "reversed_meaning": "The future, renewal, that which will come to pass presently.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. SIX.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "988e68977f466318948b00cb669206ee97ed38ff68b18a5a5e3823baaded36cd"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "8a5ebcf6-f6da-5f9b-bcfc-247da2af998b",
+    "slug": "seven-of-cups",
+    "name_zh": "圣杯七",
+    "name_en": "Seven of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "seven",
+    "upright_keywords": [
+      "Fairy favors",
+      "images of reflection",
+      "sentiment"
+    ],
+    "reversed_keywords": [
+      "Desire",
+      "will",
+      "determination"
+    ],
+    "upright_meaning": "Fairy favors, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
+    "reversed_meaning": "Desire, will, determination, project.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. SEVEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "4f24cb22bf768b24e94a2f7d757026b54474011ee88b658d39eeb40970d6a8a5"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "6f5e03df-a9f4-5590-aa40-ff6cc6e5a115",
+    "slug": "eight-of-cups",
+    "name_zh": "圣杯八",
+    "name_en": "Eight of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "eight",
+    "upright_keywords": [
+      "The card speaks for itself on the surface",
+      "but other readings are entirely antithetical—giving joy",
+      "mildness"
+    ],
+    "reversed_keywords": [
+      "Great joy",
+      "happiness",
+      "feasting"
+    ],
+    "upright_meaning": "The card speaks for itself on the surface, but other readings are entirely antithetical—giving joy, mildness, timidity, honor, modesty. In practice, it is usually found that the card shows the decline of a matter, or that a matter which has been thought to be important is really of slight consequence—either for good or evil.",
+    "reversed_meaning": "Great joy, happiness, feasting.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. EIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "1c25365d5f80399a27cb08d6af8708da3409c5b1ae250529ba2a92d671d4137b"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "be995afe-9c92-554a-9e4f-53040c6f93f8",
+    "slug": "nine-of-cups",
+    "name_zh": "圣杯九",
+    "name_en": "Nine of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "nine",
+    "upright_keywords": [
+      "Concord",
+      "contentment",
+      "physical bien-être"
+    ],
+    "reversed_keywords": [
+      "Truth",
+      "loyalty",
+      "liberty"
+    ],
+    "upright_meaning": "Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.",
+    "reversed_meaning": "Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. NINE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "fd6f98c42972b93a5a7d5127b2f5afb31136c0fd631a79012f9e1bb0b8fdf3c2"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "cb1b3601-a197-54ed-a2e8-7f1b3e88a17c",
+    "slug": "ten-of-cups",
+    "name_zh": "圣杯十",
+    "name_en": "Ten of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "ten",
+    "upright_keywords": [
+      "Contentment",
+      "repose of the entire heart",
+      "the perfection of that state"
+    ],
+    "reversed_keywords": [
+      "Repose of the false heart",
+      "indignation",
+      "violence"
+    ],
+    "upright_meaning": "Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.",
+    "reversed_meaning": "Repose of the false heart, indignation, violence.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. TEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "a653f4792c1b9d6fa07039171a72f56eb28ff168870446602cfd978d1f2891c9"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "3d9f751c-060b-5a4f-8fed-fe0fb4530a7b",
+    "slug": "page-of-cups",
+    "name_zh": "圣杯侍从",
+    "name_en": "Page of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "page",
+    "upright_keywords": [
+      "Fair young man",
+      "one impelled to render service and with whom the Querent will be connected",
+      "a studious youth"
+    ],
+    "reversed_keywords": [
+      "Taste",
+      "inclination",
+      "attachment"
+    ],
+    "upright_meaning": "Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.",
+    "reversed_meaning": "Taste, inclination, attachment, seduction, deception, artifice.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. PAGE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c48ef42455f1aa4687eb3293cd446e2780ec932e3682d76ca0a08aee18796862"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "359681ad-10d7-5cee-82b3-3bb413bd9d7b",
+    "slug": "knight-of-cups",
+    "name_zh": "圣杯骑士",
+    "name_en": "Knight of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "knight",
+    "upright_keywords": [
+      "Arrival",
+      "approach—sometimes that of a messenger",
+      "advances"
+    ],
+    "reversed_keywords": [
+      "Trickery",
+      "artifice",
+      "subtlety"
+    ],
+    "upright_meaning": "Arrival, approach—sometimes that of a messenger; advances, proposition, demeanor, invitation, incitement.",
+    "reversed_meaning": "Trickery, artifice, subtlety, swindling, duplicity, fraud.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. KNIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "095d40a3c0b1338b6ced072d7075d83ab433586475b1fe5d3b8bb9f92a9d44d1"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "8f7e8938-8ff9-59ec-a23d-b7cc139fb236",
+    "slug": "queen-of-cups",
+    "name_zh": "圣杯王后",
+    "name_en": "Queen of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "queen",
+    "upright_keywords": [
+      "Good",
+      "fair woman",
+      "honest"
+    ],
+    "reversed_keywords": [
+      "The accounts vary",
+      "good woman",
+      "otherwise"
+    ],
+    "upright_meaning": "Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
+    "reversed_meaning": "The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonor, depravity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. QUEEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c57aa2379d6bb0711ee1a756f284c13d9830e359804eb00fe945ff9101c246ef"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "c49c2829-b6f2-5de2-ba73-20842fa0f7e5",
+    "slug": "king-of-cups",
+    "name_zh": "圣杯国王",
+    "name_en": "King of Cups",
+    "arcana_type": "minor",
+    "suit": "cups",
+    "rank": "king",
+    "upright_keywords": [
+      "Fair man",
+      "man of business",
+      "law"
+    ],
+    "reversed_keywords": [
+      "Dishonest",
+      "double-dealing man",
+      "roguery"
+    ],
+    "upright_meaning": "Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.",
+    "reversed_meaning": "Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2cups",
+      "locator": "Part III, Section 2, CUPS. KING.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "eda8e56f39f1051b1a1dc2162354402c0734603b04bcd73f93c0b3ea2fa91efd"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "87ecc8d7-7a88-5162-9fd5-8c2eeba8e18c",
+    "slug": "ace-of-swords",
+    "name_zh": "宝剑一",
+    "name_en": "Ace of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "ace",
+    "upright_keywords": [
+      "Triumph",
+      "the excessive degree in everything",
+      "conquest"
+    ],
+    "reversed_keywords": [
+      "The same",
+      "but the results are disastrous",
+      "another account says—conception—childbirth"
+    ],
+    "upright_meaning": "Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.",
+    "reversed_meaning": "The same, but the results are disastrous; another account says—conception—childbirth, augmentation, multiplicity.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. ACE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "e7cdd66563f8b98f96feb34996285b750ed1e18e02c3921bdb88e44513907cdb"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "08daf868-1e00-54a5-b8a1-5b7b75dbcc32",
+    "slug": "two-of-swords",
+    "name_zh": "宝剑二",
+    "name_en": "Two of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "two",
+    "upright_keywords": [
+      "Conformity and the equipoise which it suggests",
+      "courage",
+      "friendship"
+    ],
+    "reversed_keywords": [
+      "Imposture",
+      "falsehood",
+      "duplicity"
+    ],
+    "upright_meaning": "Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favorable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.",
+    "reversed_meaning": "Imposture, falsehood, duplicity, disloyalty.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. TWO.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "3e74b9b3c72b6d71720c0602d28bd3fe678c09626bb96ef5b98f38ca368ccc18"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "8a22ce60-a662-53f2-acf7-b34c6798933f",
+    "slug": "three-of-swords",
+    "name_zh": "宝剑三",
+    "name_en": "Three of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "three",
+    "upright_keywords": [
+      "Removal",
+      "absence",
+      "delay"
+    ],
+    "reversed_keywords": [
+      "Mental alienation",
+      "error",
+      "loss"
+    ],
+    "upright_meaning": "Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.",
+    "reversed_meaning": "Mental alienation, error, loss, distraction, disorder, confusion.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. THREE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c1b2f590dbc9dbd54166da883b1f2a4117a70b206ab0d93065efdc438d5aae5f"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e4cb9fc7-4ed3-5b95-82ae-49bec828eb33",
+    "slug": "four-of-swords",
+    "name_zh": "宝剑四",
+    "name_en": "Four of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "four",
+    "upright_keywords": [
+      "Vigilance",
+      "retreat",
+      "solitude"
+    ],
+    "reversed_keywords": [
+      "Wise administration",
+      "circumspection",
+      "economy"
+    ],
+    "upright_meaning": "Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
+    "reversed_meaning": "Wise administration, circumspection, economy, avarice, precaution, testament.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. FOUR.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "49c22ba3b72f9eeb78798039981a6a11a55060546c826a2da790e0f6673b268f"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "c5bbf17e-ee94-5c5d-b674-68f7fcc105da",
+    "slug": "five-of-swords",
+    "name_zh": "宝剑五",
+    "name_en": "Five of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "five",
+    "upright_keywords": [
+      "Degradation",
+      "destruction",
+      "revocation"
+    ],
+    "reversed_keywords": [
+      "The same",
+      "burial and obsequies",
+      ""
+    ],
+    "upright_meaning": "Degradation, destruction, revocation, infamy, dishonor, loss, with the variants and analogues of these.",
+    "reversed_meaning": "The same; burial and obsequies.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. FIVE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "8ff637f02f04f307e624a2b72a4486519234b71caf6f1ecf74ea06fedc5dd3a6"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "36763eb0-e1af-5c44-ab5d-d3053cfc24e2",
+    "slug": "six-of-swords",
+    "name_zh": "宝剑六",
+    "name_en": "Six of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "six",
+    "upright_keywords": [
+      "Journey by water",
+      "route",
+      "way"
+    ],
+    "reversed_keywords": [
+      "Declaration",
+      "confession",
+      "publicity"
+    ],
+    "upright_meaning": "Journey by water, route, way, envoy, commissionary, expedient.",
+    "reversed_meaning": "Declaration, confession, publicity; one account says that it is a proposal of love.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. SIX.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "20d09323c8cb221ce46b46064746b29a6ff889674f92ab40a9aa9795e59e721d"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "9d7db443-17f1-519f-94dc-48789e5ab7bc",
+    "slug": "seven-of-swords",
+    "name_zh": "宝剑七",
+    "name_en": "Seven of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "seven",
+    "upright_keywords": [
+      "Design",
+      "attempt",
+      "wish"
+    ],
+    "reversed_keywords": [
+      "Good advice",
+      "counsel",
+      "instruction"
+    ],
+    "upright_meaning": "Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.",
+    "reversed_meaning": "Good advice, counsel, instruction, slander, babbling.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. SEVEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "9ab32cdede66f453848fbddd4a874902c53c7bfe8282bb1ceae881315d4a7f3e"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "26ceb238-b0d7-52f5-ba7c-4b0b86db1846",
+    "slug": "eight-of-swords",
+    "name_zh": "宝剑八",
+    "name_en": "Eight of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "eight",
+    "upright_keywords": [
+      "Bad news",
+      "violent chagrin",
+      "crisis"
+    ],
+    "reversed_keywords": [
+      "Disquiet",
+      "difficulty",
+      "opposition"
+    ],
+    "upright_meaning": "Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.",
+    "reversed_meaning": "Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. EIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "7ecf1446ef6952522328b7c9122ede96fb25076f2dee1885449d7b44ad0521ff"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "4346d973-b4f2-5ba8-ae4a-7d718e76d8e1",
+    "slug": "nine-of-swords",
+    "name_zh": "宝剑九",
+    "name_en": "Nine of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "nine",
+    "upright_keywords": [
+      "Death",
+      "failure",
+      "miscarriage"
+    ],
+    "reversed_keywords": [
+      "Imprisonment",
+      "suspicion",
+      "doubt"
+    ],
+    "upright_meaning": "Death, failure, miscarriage, delay, deception, disappointment, despair.",
+    "reversed_meaning": "Imprisonment, suspicion, doubt, reasonable fear, shame.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. NINE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "fd1653ca4fbcd6f81358b9778a26ef56daba45598bd506b41c89529cf9cf99ec"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "2128be33-252e-5d14-9300-8907c3502bca",
+    "slug": "ten-of-swords",
+    "name_zh": "宝剑十",
+    "name_en": "Ten of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "ten",
+    "upright_keywords": [
+      "Whatsoever is intimated by the design",
+      "also pain",
+      "affliction"
+    ],
+    "reversed_keywords": [
+      "Advantage",
+      "profit",
+      "success"
+    ],
+    "upright_meaning": "Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.",
+    "reversed_meaning": "Advantage, profit, success, favor, but none of these are permanent; also power and authority.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. TEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "e57a5aab57d484e931b9b454ee4cf9773ac4a4219e0f85f212b5c8e92a943fc5"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "40b569ec-eb66-5c76-96ac-87d67e404a42",
+    "slug": "page-of-swords",
+    "name_zh": "宝剑侍从",
+    "name_en": "Page of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "page",
+    "upright_keywords": [
+      "Authority",
+      "overseeing",
+      "secret service"
+    ],
+    "reversed_keywords": [
+      "More evil side of these qualities",
+      "what is unforeseen",
+      "unprepared state"
+    ],
+    "upright_meaning": "Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.",
+    "reversed_meaning": "More evil side of these qualities; what is unforeseen, unprepared state; sickness is also intimated.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. PAGE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "8ad1de7d72595550e34bf256fe6b8ada03234570a2ba5f53abb2fce61d81f050"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "44f1adc0-9600-5c96-a126-1f6de2dbacef",
+    "slug": "knight-of-swords",
+    "name_zh": "宝剑骑士",
+    "name_en": "Knight of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "knight",
+    "upright_keywords": [
+      "Skill",
+      "bravery",
+      "capacity"
+    ],
+    "reversed_keywords": [
+      "Imprudence",
+      "incapacity",
+      "extravagance"
+    ],
+    "upright_meaning": "Skill, bravery, capacity, defense, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.",
+    "reversed_meaning": "Imprudence, incapacity, extravagance.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. KNIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "97e5b9a8b3f11d6fb0bdb7dd27d9215bf55516bbd0d13fc67e6bff286b30148d"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "14977e56-b84c-5458-8934-e8ce9744d724",
+    "slug": "queen-of-swords",
+    "name_zh": "宝剑王后",
+    "name_en": "Queen of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "queen",
+    "upright_keywords": [
+      "Widowhood",
+      "female sadness and embarrassment",
+      "absence"
+    ],
+    "reversed_keywords": [
+      "Malice",
+      "bigotry",
+      "artifice"
+    ],
+    "upright_meaning": "Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.",
+    "reversed_meaning": "Malice, bigotry, artifice, prudery, bale, deceit.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. QUEEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "27eca2070bb9c7ba9f7fadd98102fa773634f7454ad1aee54baa674ae8e54c38"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "29d569de-edca-5976-85c9-d381c126e0a8",
+    "slug": "king-of-swords",
+    "name_zh": "宝剑国王",
+    "name_en": "King of Swords",
+    "arcana_type": "minor",
+    "suit": "swords",
+    "rank": "king",
+    "upright_keywords": [
+      "Whatsoever arises out of the idea of judgment and all its connections—power",
+      "command",
+      "authority"
+    ],
+    "reversed_keywords": [
+      "Cruelty",
+      "perversity",
+      "barbarity"
+    ],
+    "upright_meaning": "Whatsoever arises out of the idea of judgment and all its connections—power, command, authority, militant intelligence, law, offices of the crown, and so forth.",
+    "reversed_meaning": "Cruelty, perversity, barbarity, perfidy, evil intention.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2swords",
+      "locator": "Part III, Section 2, SWORDS. KING.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "75ff07c7b17082902ba601cbe387e518a1eddc1ddacfc802e5326d7e8abc9cb6"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "da343e87-325b-59b7-8485-a63a08de290f",
+    "slug": "ace-of-pentacles",
+    "name_zh": "星币一",
+    "name_en": "Ace of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "ace",
+    "upright_keywords": [
+      "Perfect contentment",
+      "felicity",
+      "ecstasy"
+    ],
+    "reversed_keywords": [
+      "The evil side of wealth",
+      "bad intelligence",
+      "also great riches"
+    ],
+    "upright_meaning": "Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.",
+    "reversed_meaning": "The evil side of wealth, bad intelligence; also great riches. In any case it shows prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. ACE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "07506438e0810dd63eb496696da268bf0960fac24bb40bba68dc54ab42e1b1a4"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "97759950-f35d-57a0-92df-8713a1c98186",
+    "slug": "two-of-pentacles",
+    "name_zh": "星币二",
+    "name_en": "Two of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "two",
+    "upright_keywords": [
+      "On the one hand it is represented as a card of gaiety",
+      "recreation and its connections",
+      "which is the subject of the design"
+    ],
+    "reversed_keywords": [
+      "Enforced gaiety",
+      "simulated enjoyment",
+      "literal sense"
+    ],
+    "upright_meaning": "On the one hand it is represented as a card of gaiety, recreation and its connections, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.",
+    "reversed_meaning": "Enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. TWO.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "388d9200c7456beca9380d2d7f5d4617c73e7e081106812730629dc1bec8d699"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "c8989b18-547e-54ea-bae8-550322b9844a",
+    "slug": "three-of-pentacles",
+    "name_zh": "星币三",
+    "name_en": "Three of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "three",
+    "upright_keywords": [
+      "Métier",
+      "trade",
+      "skilled labor"
+    ],
+    "reversed_keywords": [
+      "Mediocrity",
+      "in work and otherwise",
+      "puerility"
+    ],
+    "upright_meaning": "Métier, trade, skilled labor; usually, however, regarded as a card of nobility, aristocracy, renown, glory.",
+    "reversed_meaning": "Mediocrity, in work and otherwise, puerility, pettiness, weakness.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. THREE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "f97829655e5f45c8591eb126a41e93cb92df7d910aa8096e05981eb5105c6fbb"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "e7268d1e-a509-5b82-bbce-f08029215bfb",
+    "slug": "four-of-pentacles",
+    "name_zh": "星币四",
+    "name_en": "Four of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "four",
+    "upright_keywords": [
+      "The surety of possessions",
+      "cleaving to that which one has",
+      "gift"
+    ],
+    "reversed_keywords": [
+      "Suspense",
+      "delay",
+      "opposition"
+    ],
+    "upright_meaning": "The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.",
+    "reversed_meaning": "Suspense, delay, opposition.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. FOUR.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "fe0db14266114d578ee94d7a5e2d190676558c58376065d94a37373069b17480"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "db9a4f2c-8b39-59cd-84ae-708e1bdf3e0d",
+    "slug": "five-of-pentacles",
+    "name_zh": "星币五",
+    "name_en": "Five of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "five",
+    "upright_keywords": [
+      "The card foretells material trouble above all",
+      "whether in the form illustrated—that is",
+      "destitution—or otherwise"
+    ],
+    "reversed_keywords": [
+      "Disorder",
+      "chaos",
+      "ruin"
+    ],
+    "upright_meaning": "The card foretells material trouble above all, whether in the form illustrated—that is, destitution—or otherwise. For some cartomancists, it is a card of love and lovers—wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.",
+    "reversed_meaning": "Disorder, chaos, ruin, discord, profligacy.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. FIVE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "96e349231f7165b258b71ab5ec31a83f1e0eac1401f13d7c9c44d1517b961376"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "91fdd606-f3b8-5950-9540-5ba8ab996433",
+    "slug": "six-of-pentacles",
+    "name_zh": "星币六",
+    "name_en": "Six of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "six",
+    "upright_keywords": [
+      "Presents",
+      "gifts",
+      "gratification"
+    ],
+    "reversed_keywords": [
+      "Desire",
+      "cupidity",
+      "envy"
+    ],
+    "upright_meaning": "Presents, gifts, gratification; another account says attention, vigilance; now is the accepted time, present prosperity, etc.",
+    "reversed_meaning": "Desire, cupidity, envy, jealousy, illusion.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. SIX.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "c1564677c0e37cb9d5371387253c714876face38612a8ac95db68994625daa04"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "8f0897b2-ddb1-511e-a939-b6cced9b6091",
+    "slug": "seven-of-pentacles",
+    "name_zh": "星币七",
+    "name_en": "Seven of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "seven",
+    "upright_keywords": [
+      "These are exceedingly contradictory",
+      "in the main",
+      "it is a card of money"
+    ],
+    "reversed_keywords": [
+      "Cause for anxiety regarding money which it may be proposed to lend",
+      ""
+    ],
+    "upright_meaning": "These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrel—and another innocence, ingenuity, purgation.",
+    "reversed_meaning": "Cause for anxiety regarding money which it may be proposed to lend.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. SEVEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "948f04c639a0bf7007a93175521bb5e0f8fe5ee98eeccaeea62c39184fd11db5"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "3620abe4-8953-5c79-8686-0a17ccfc3b05",
+    "slug": "eight-of-pentacles",
+    "name_zh": "星币八",
+    "name_en": "Eight of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "eight",
+    "upright_keywords": [
+      "Work",
+      "employment",
+      "commission"
+    ],
+    "reversed_keywords": [
+      "Voided ambition",
+      "vanity",
+      "cupidity"
+    ],
+    "upright_meaning": "Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.",
+    "reversed_meaning": "Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. EIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "adfb142731bbc062100f7a6456f8805307c48b82862b3f2c97aa2f8e86bf518e"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "82e24d9b-8c78-5cba-b11f-b3c145029106",
+    "slug": "nine-of-pentacles",
+    "name_zh": "星币九",
+    "name_en": "Nine of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "nine",
+    "upright_keywords": [
+      "Prudence",
+      "safety",
+      "success"
+    ],
+    "reversed_keywords": [
+      "Roguery",
+      "deception",
+      "voided project"
+    ],
+    "upright_meaning": "Prudence, safety, success, accomplishment, certitude, discernment.",
+    "reversed_meaning": "Roguery, deception, voided project, bad faith.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. NINE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "ac7e1f30591290d415e8726ef14aa377b995178012ec8337834d0fbbf5625e58"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "a7b92dcf-2449-5d22-a5fa-009564926986",
+    "slug": "ten-of-pentacles",
+    "name_zh": "星币十",
+    "name_en": "Ten of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "ten",
+    "upright_keywords": [
+      "Gain",
+      "riches",
+      "family matters"
+    ],
+    "reversed_keywords": [
+      "Chance",
+      "fatality",
+      "loss"
+    ],
+    "upright_meaning": "Gain, riches; family matters, archives, extraction, the abode of a family.",
+    "reversed_meaning": "Chance, fatality, loss, robbery, games of hazard; sometimes gift, dowry, pension.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. TEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "d905eda7b7eed9f13a306e22321fef2ead7e23e190d4154c929328655255cfed"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "33ea0a2b-eedf-5880-bd3a-6903258965b6",
+    "slug": "page-of-pentacles",
+    "name_zh": "星币侍从",
+    "name_en": "Page of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "page",
+    "upright_keywords": [
+      "Application",
+      "study",
+      "scholarship"
+    ],
+    "reversed_keywords": [
+      "Prodigality",
+      "dissipation",
+      "liberality"
+    ],
+    "upright_meaning": "Application, study, scholarship, reflection; another reading says news, messages and the bringer thereof; also rule, management.",
+    "reversed_meaning": "Prodigality, dissipation, liberality, luxury, unfavorable news.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. PAGE.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "d63ccebf2a04e6732031587663dea1984dd31c17612c56ea0ad6db07c17a995e"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "c2fc46a5-75a0-5c7c-aa8f-525f4d9f23fb",
+    "slug": "knight-of-pentacles",
+    "name_zh": "星币骑士",
+    "name_en": "Knight of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "knight",
+    "upright_keywords": [
+      "Utility",
+      "serviceableness",
+      "interest"
+    ],
+    "reversed_keywords": [
+      "Inertia",
+      "idleness",
+      "repose of that kind"
+    ],
+    "upright_meaning": "Utility, serviceableness, interest, responsibility, rectitude—all on the normal and external plane.",
+    "reversed_meaning": "Inertia, idleness, repose of that kind, stagnation; also placidity, discouragement, carelessness.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. KNIGHT.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "4d0bc5a8867cd7c4176c18ebe8ceaee88401cf631b29c9cb1b59ee795ccffdec"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "f89c792b-bda8-59ef-8638-34d92a0b030d",
+    "slug": "queen-of-pentacles",
+    "name_zh": "星币王后",
+    "name_en": "Queen of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "queen",
+    "upright_keywords": [
+      "Opulence",
+      "generosity",
+      "magnificence"
+    ],
+    "reversed_keywords": [
+      "Evil",
+      "suspicion",
+      "suspense"
+    ],
+    "upright_meaning": "Opulence, generosity, magnificence, security, liberty. Reversed: Evil, suspicion, suspense, fear, mistrust.",
+    "reversed_meaning": "Evil, suspicion, suspense, fear, mistrust.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. QUEEN.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "186bd34f480692eb19bb44b66f3842712eb16625366643f8f76e8d60f5630b6e"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  },
+  {
+    "id": "59939710-1158-5581-8a02-c5f4815c94a9",
+    "slug": "king-of-pentacles",
+    "name_zh": "星币国王",
+    "name_en": "King of Pentacles",
+    "arcana_type": "minor",
+    "suit": "pentacles",
+    "rank": "king",
+    "upright_keywords": [
+      "Valor",
+      "intelligence",
+      "business"
+    ],
+    "reversed_keywords": [
+      "Vice",
+      "weakness",
+      "perversity"
+    ],
+    "upright_meaning": "Valor, intelligence, business, mathematical gifts, and success in these paths.",
+    "reversed_meaning": "Vice, weakness, perversity, peril.",
+    "image_path": null,
+    "source_reference": {
+      "source_id": "pg-43548",
+      "title": "The Illustrated Key to the Tarot: The Veil of Divination",
+      "author": "L. W. de Laurence",
+      "publication_year": 1918,
+      "url": "https://www.gutenberg.org/files/43548/43548-h/43548-h.htm#III2pent",
+      "locator": "Part III, Section 2, PENTACLES. KING.",
+      "license": "Public domain in the USA (Project Gutenberg catalog)",
+      "language": "en",
+      "content_kind": "historical_excerpt",
+      "review_status": "source_verified_not_modern_advice",
+      "retrieved_on": "2026-10-29",
+      "version": "pg43548-excerpts-v1",
+      "source_sha256": "11b8ec2532b28aa79f02c3b44ad67d03d33dcf204e68bb723da6eef4ed6c2ffe",
+      "excerpt_sha256": "71e941b3d8435e347b45fd3dc65ea6abe86c0a6000913c71a9d297afa2b0f133"
+    },
+    "content_version": "pg43548-excerpts-v1"
+  }
+]

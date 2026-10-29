@@ -9,9 +9,11 @@ __pycache__/
 .venv/
 venv/
 node_modules/
+*.egg-info/
 dist/
 coverage/
 .playwright/
+.playwright-cli/
 test-results/
 *.log
 .DS_Store
