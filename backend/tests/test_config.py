@@ -47,3 +47,23 @@ def test_model_configuration_is_optional(monkeypatch):
     assert settings.llm_model == ""
     assert settings.llm_timeout_seconds == 60
     assert settings.llm_max_output_tokens == 3000
+
+
+@pytest.mark.parametrize(
+    "field",
+    [
+        "access_token_expire_minutes",
+        "auth_requests_per_minute",
+        "readings_per_minute",
+        "model_requests_per_minute",
+        "model_max_concurrency",
+    ],
+)
+def test_security_limits_must_be_positive(field):
+    with pytest.raises(ValueError):
+        Settings(**{field: 0})
+
+
+def test_unsupported_auth_mode_is_rejected():
+    with pytest.raises(ValueError):
+        Settings(auth_mode="cookie")

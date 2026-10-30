@@ -394,3 +394,55 @@ blockquote {
     margin-bottom: 3rem;
   }
 }
+
+.reading-form {
+  display: grid;
+  gap: 1.2rem;
+  max-width: 44rem;
+  margin: 2rem 0;
+}
+.reading-form label {
+  display: grid;
+  gap: 0.5rem;
+}
+.reading-form input,
+.reading-form select,
+.reading-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  font: inherit;
+  color: inherit;
+  background: #121b33;
+  border: 1px solid #65718c;
+  padding: 0.75rem;
+  border-radius: 0.3rem;
+}
+.reading-form textarea {
+  min-height: 7rem;
+  resize: vertical;
+}
+.drawn-cards {
+  padding-left: 1.5rem;
+}
+.drawn-cards li {
+  padding: 1rem;
+  margin-block: 1rem;
+  border: 1px solid #65718c;
+  border-radius: 0.5rem;
+  overflow-wrap: anywhere;
+}
+.site-header {
+  flex-wrap: wrap;
+}
+.site-header nav {
+  flex-wrap: wrap;
+}
+.reading-form .consent {
+  display: flex;
+  align-items: start;
+}
+.reading-form .consent input {
+  width: auto;
+  flex: none;
+  margin-top: 0.3rem;
+}

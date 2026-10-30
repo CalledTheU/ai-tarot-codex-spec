@@ -65,6 +65,49 @@ def test_postgresql_migration_sql():
     assert "ON DELETE CASCADE" in sql
 
 
+def test_phase34_migration_preserves_existing_records(db_engine):
+    from sqlalchemy import MetaData, Table, text
+
+    migrate(db_engine, "downgrade", "0001")
+    uid = uuid4()
+    with db_engine.begin() as connection:
+        connection.execute(
+            text("INSERT INTO users (id, email, password_hash) VALUES (:id, :email, :hash)"),
+            {
+                "id": uid.hex if db_engine.dialect.name == "sqlite" else uid,
+                "email": "existing@example.test",
+                "hash": "existing-hash",
+            },
+        )
+    seed_catalog(db_engine)
+    rid = uuid4()
+    table = Table("readings", MetaData(), autoload_with=db_engine)
+    with db_engine.begin() as connection:
+        spread_id = connection.scalar(select(Spread.id))
+        connection.execute(
+            table.insert().values(
+                id=rid.hex if db_engine.dialect.name == "sqlite" else rid,
+                user_id=uid.hex if db_engine.dialect.name == "sqlite" else uid,
+                spread_id=spread_id.hex if db_engine.dialect.name == "sqlite" else spread_id,
+                question="Existing private question",
+                category="growth",
+                status="pending_interpretation",
+                spread_snapshot={"name": "Original spread"},
+                cards_snapshot=[{"original": "snapshot"}],
+            )
+        )
+    migrate(db_engine)
+    with Session(db_engine) as session:
+        user = session.get(User, uid)
+        assert user.email == "existing@example.test" and user.password_hash == "existing-hash"
+        reading = session.get(Reading, rid)
+        assert reading.question == "Existing private question"
+        assert reading.cards_snapshot == [{"original": "snapshot"}]
+        assert reading.spread_snapshot == {"name": "Original spread"}
+        assert reading.idempotency_key is None and reading.active_run_id is None
+    seed_catalog(db_engine)
+
+
 def test_seed_is_idempotent_and_preserves_existing_data(db_engine):
     assert seed_catalog(db_engine) == {"cards": 78, "spreads": 4}
     with Session(db_engine) as session, session.begin():

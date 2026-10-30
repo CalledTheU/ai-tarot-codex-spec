@@ -1,3 +1,4 @@
+import { authHeaders } from "./private";
 export type CardSummary = {
   id: string;
   slug: string;
@@ -57,7 +58,7 @@ export async function fetchJson<T>(
   url: string,
   signal: AbortSignal,
 ): Promise<T> {
-  const response = await fetch(url, { signal });
+  const response = await fetch(url, { signal, headers: authHeaders() });
   if (!response.ok) {
     const body = await response.json().catch(() => null);
     throw new ApiError(body?.error?.message ?? "加载失败，请稍后重试。");

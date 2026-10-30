@@ -60,6 +60,13 @@ class User(Identity, Timestamps, Base):
     is_active: Mapped[bool] = mapped_column(Boolean, default=True, server_default="true")
 
 
+class AuthSession(Identity, Base):
+    __tablename__ = "auth_sessions"
+    user_id: Mapped[UUID] = mapped_column(ForeignKey("users.id", ondelete="CASCADE"), index=True)
+    token_hash: Mapped[str] = mapped_column(String(64), unique=True)
+    expires_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), index=True)
+
+
 class TarotCard(Identity, Timestamps, Base):
     __tablename__ = "tarot_cards"
     __table_args__ = (
@@ -108,6 +115,11 @@ class Spread(Identity, Timestamps, Base):
 
 class Reading(Identity, Timestamps, Base):
     __tablename__ = "readings"
+    __table_args__ = (UniqueConstraint("user_id", "idempotency_key"),)
+    idempotency_key: Mapped[str | None] = mapped_column(String(128))
+    request_hash: Mapped[str | None] = mapped_column(String(64))
+    draw_metadata: Mapped[dict | None] = mapped_column(json_type)
+    active_run_id: Mapped[UUID | None] = mapped_column(Uuid)
     user_id: Mapped[UUID] = mapped_column(ForeignKey("users.id"), index=True)
     spread_id: Mapped[UUID] = mapped_column(ForeignKey("spreads.id"))
     spread_snapshot: Mapped[dict] = mapped_column(json_type)

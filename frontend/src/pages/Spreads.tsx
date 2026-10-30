@@ -66,9 +66,7 @@ export function Spreads() {
     <>
       <header className="page-heading">
         <h1>选择一个观察角度</h1>
-        <p>
-          牌阵帮助你整理问题。这里可以了解与预览牌位，抽牌将在后续阶段开放。
-        </p>
+        <p>牌阵帮助你整理问题。了解牌位后，可以登录并创建一次抽牌。</p>
       </header>
       {state.data.length === 0 ? (
         <p className="notice">暂无可用牌阵。</p>
@@ -92,6 +90,9 @@ export function Spreads() {
             <p>{spread.description}</p>
             <SpreadLayout spread={spread} />
             <a href={"#/spreads/" + spread.slug}>查看牌阵详情</a>
+            <p>
+              <a href="#/new">开始抽牌</a>
+            </p>
           </section>
         </div>
       )}
@@ -115,8 +116,9 @@ export function SpreadDetail({ identifier }: { identifier: string }) {
       <SpreadLayout spread={state.data} />
       <p className="note">
         本项目定义的反思牌阵 · {state.data.positions.length} 个牌位 · 版本{" "}
-        {state.data.version}。当前仅供预览，尚不能抽牌。
+        {state.data.version}。
       </p>
+      <a href="#/new">开始抽牌</a>
     </article>
   );
 }

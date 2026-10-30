@@ -12,12 +12,16 @@ from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 from starlette.exceptions import HTTPException
 
+from app.api.auth import router as auth_router
 from app.api.catalog import router as catalog_router
+from app.api.readings import router as readings_router
 from app.database import get_session
 from app.services.catalog import CatalogNotFound
 
 app = FastAPI(title="AI Tarot API")
 app.include_router(catalog_router)
+app.include_router(auth_router)
+app.include_router(readings_router)
 
 
 @app.middleware("http")
@@ -25,6 +29,8 @@ async def request_id(request: Request, call_next):
     request.state.request_id = str(uuid4())
     response = await call_next(request)
     response.headers["X-Request-ID"] = request.state.request_id
+    if request.url.path.startswith(("/api/v1/auth", "/api/v1/readings")):
+        response.headers["Cache-Control"] = "no-store"
     return response
 
 

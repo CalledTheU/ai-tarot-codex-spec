@@ -1,5 +1,33 @@
 # 测试规格
 
+## Phase 3–4 验收（2026-10-30）
+
+Phase 3 实施完毕后独立运行：真实 PostgreSQL 后端 **63 passed**，前端 **13 passed**；lint/typecheck/build 通过，随后才进入 Phase 4。Phase 4 最终 PostgreSQL 全量 **106 passed**，前端 **15 passed**。SQLite 辅助验证 **104 passed, 2 skipped**，两个依赖 PostgreSQL 行锁的并发测试明确 skip，不将其计为通过。
+
+新增自动化覆盖：注册/规范化邮箱/Argon2id/密码空白保留、登录通用错误、过期/撤销/停用账户；四牌阵无放回抽牌与合法方向、强制幂等键、同键不同正文 409、并发幂等、更新牌库后原快照不变、越权访问和越权解读拒绝、请求限流；mock 成功、真实 wait_for 超时边界、供应商失败、意外异常、无效 JSON、缺字段、额外字段、重复/缺失牌位、伪造 ID/牌位名称/方向/来源/历史摘录、超大响应、完成结果复用、失败重试不重抽牌、并发解读互斥、过期运行恢复与迟到响应拦截。模型调用入口断言无数据库事务。迁移验证包含旧用户和旧 Reading 升级后保留数据、ORM 比对和往返。
+
+实际运行命令（后端 cwd 为 backend）：
+
+```powershell
+.venv/Scripts/python -m pip install -r requirements.lock
+.venv/Scripts/python -m pip check
+.venv/Scripts/python -m ruff format --check . ../scripts
+.venv/Scripts/python -m ruff check . ../scripts
+.venv/Scripts/python -m pytest -q
+$env:TEST_DATABASE_URL='postgresql+psycopg://tarot_test@127.0.0.1:9826/tarot_test'
+.venv/Scripts/python -m pytest -q
+```
+
+测试数据库使用临时 `postgres:17.6` 容器，端口只绑定本机，容器内 trust 认证仅用于本次隔离验证，不是部署配置。测试用随机 schema，结束后删除 schema；未连接用户数据库。CLI 的 `alembic upgrade head` 与 `python -m app.scripts.seed_cards` 亦在隔离实例实际成功。
+
+前端 cwd 为 frontend：`npm run lint`、`npm run typecheck`、`npm test`、`npm run build` 均通过。组件测试覆盖注册/登录状态、Bearer 请求、退出撤销、抽牌网络重试复用键、防重复提交、恢复快照、AI 失败原牌重试、模型处理告知、结构化解读各部分及完成后不重复请求模型。
+
+真实 Edge（playwright-cli）联调：注册并登录 → 五张反思牌阵抽牌 → 测试 mock 首次失败 → 原牌重试成功 → 刷新恢复 → 比较完整牌面/牌阵快照及抽牌时间 → 390px 页面无横向溢出 → 退出后不能读取私有记录。脚本通过，零 pageerror；控制台有预期的未登录 401 与刻意触发的模型 503。最终来源展示调整后重新运行通过。测试专用 mock 只在忽略的临时联调服务通过依赖替换启用，生产模型工厂不支持 mock 配置。
+
+Windows 保留 8000 端口导致最初服务启动 EACCES，改用 Uvicorn 18000 与 Vite 15173；Vite 使用 `API_PROXY_TARGET=http://127.0.0.1:18000`。前端旧文案断言及新 fixture 的 TS/SQLite UUID 类型问题在测试中发现并修正，没有把这些失败计为通过。仍有 Starlette/AnyIO 的既有弃用警告。
+
+未测试：真实 Qwen3-0.6B 的连通性/JSON 支持/生成质量、人工安全语义评分、多实例部署与统一限流、LangGraph/RAG、完整历史列表/删除/追问与生产恢复。结构校验通过不等于模型内容事实或安全质量达标。
+
 ## Phase 2 验收与联调
 
 API 测试覆盖分页/越界页、UUID 与 slug 详情、分类/花色、中英文搜索、字面通配符与 SQL 输入、非法参数、404、停用牌阵隐藏、公共字段裁剪及无模型配置访问。组件测试使用 React Testing Library、user-event 与 jsdom，覆盖首页入口、筛选分页、加载/错误/重试/空结果、正逆位和实际来源链接、牌阵选择及配置牌位、详情直达、过期请求取消、网络失败及空牌阵。

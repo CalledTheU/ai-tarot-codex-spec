@@ -1,6 +1,6 @@
 # 部署规格
 
-当前完成 Phase 0–2 本地开发。PostgreSQL、Alembic 迁移与种子导入的实际命令见 README；Dockerfile、Compose、Nginx 与备份恢复仍为 Phase 8 目标，下述 Compose 命令当前不可执行。
+当前完成 Phase 0–4 本地开发。PostgreSQL、Alembic 迁移与种子导入的实际命令见 README；Dockerfile、Compose、Nginx 与备份恢复仍为 Phase 8 目标，下述 Compose 命令当前不可执行。
 
 ## 开发环境
 要求安装兼容版本的 Python、Node.js、Docker Engine/Desktop。具体版本由仓库依赖锁文件确定，并在 README 中写明实际验证版本。
@@ -12,7 +12,9 @@
 数据库仅加入内部网络，生产环境默认不发布数据库端口。
 
 ## 配置
-`.env.example` 列出当前及后续配置。当前应用从进程环境变量读取配置，不自动加载 `.env`；PowerShell 设置方式见 README。后续部署可由容器环境注入；真实 `.env` 不得提交 Git。AUTH_SECRET、认证、CORS 与模型尚未实现，不能将这些占位值当成生产安全配置。
+`.env.example` 列出当前及后续配置。后端从进程环境变量读取，不自动加载 `.env`；PowerShell 设置方式见 README。后续部署可由容器环境注入；真实 `.env` 不得提交 Git。认证仅支持 `AUTH_MODE=bearer`，随机会话只存哈希，不使用 AUTH_SECRET/JWT；需迁移至 0003。模型服务必须由管理员实际提供，配置空缺时抽牌可用、解读返回 503。CORS/RAG 变量仍为后续占位，开发浏览器通过 Vite 同源代理访问 API。
+
+当前使用单 API worker：认证 IP 限流和全局模型并发为进程内机制；多 worker/实例上线前须增加统一限流。用户级模型互斥与抽牌幂等使用 PostgreSQL 行锁；SQLite 仅作辅助测试。Bearer 在前端当前标签页 sessionStorage 保存，生产须 HTTPS 和 XSS 防护。临时验证容器的 trust 认证不能用于真实部署。
 
 ## 预期操作
 ```bash

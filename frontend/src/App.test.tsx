@@ -19,6 +19,7 @@ const page = { items: [card], total: 78, page: 1, page_size: 20 };
 const ok = (data: unknown) => ({ ok: true, json: async () => data });
 
 beforeEach(() => {
+  sessionStorage.clear();
   window.history.replaceState(null, "", "/");
   fetchMock.mockReset();
   vi.stubGlobal("fetch", fetchMock);
@@ -40,7 +41,7 @@ test("home links to the working catalog and identifies future features", async (
   expect(
     screen.getByRole("link", { name: "走进牌库" }).getAttribute("href"),
   ).toBe("#/cards");
-  expect(screen.getByText(/抽牌与 AI 解读将在后续阶段开放/)).toBeTruthy();
+  expect(screen.getByText(/登录后可创建并保存抽牌记录/)).toBeTruthy();
   await userEvent.click(screen.getByText("跳到正文"));
   expect(document.activeElement?.id).toBe("main-content");
   expect(fetchMock).not.toHaveBeenCalled();
@@ -161,7 +162,9 @@ test("spread detail survives direct navigation", async () => {
   expect(
     await screen.findByRole("list", { name: "单张牌牌位布局" }),
   ).toBeTruthy();
-  expect(screen.getByText(/当前仅供预览，尚不能抽牌/)).toBeTruthy();
+  expect(
+    screen.getAllByRole("link", { name: "开始抽牌" }).length,
+  ).toBeGreaterThan(0);
 });
 
 test("stale requests are aborted and cannot overwrite the new page", async () => {
